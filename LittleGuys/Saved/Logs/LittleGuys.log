@@ -1053,3 +1053,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.26-04.38.51:824][141]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.26-04.38.51:824][141]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.10.26-04.38.51:824][141]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.26-04.40.37:031][225]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Program Files/Epic Games/UE_4.27/Second_Game/LittleGuys/LittleGuys/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2021.10.26-04.40.37:031][225]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Program Files/Epic Games/UE_4.27/Second_Game/LittleGuys/LittleGuys/Content/Developers/josec/Collections/' because it could not be accessed. Aborting watch request...
+[2021.10.26-04.40.37:031][225]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Program Files/Epic Games/UE_4.27/Second_Game/LittleGuys/LittleGuys/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.10.26-04.41.03:910][305]AssetReimport: New page: Outstanding source content changes 6:41:03 PM
+[2021.10.26-04.41.03:912][305]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Program Files/Epic Games/UE_4.27/Second_Game/LittleGuys/LittleGuys/Content/Abandoned_Psychiatric_Hospital/Models/Props/Surgery/Knife_01.fbx)
+[2021.10.26-04.41.03:920][305]LogFbx: Loading FBX Scene from C:/Program Files/Epic Games/UE_4.27/Second_Game/LittleGuys/LittleGuys/Content/Abandoned_Psychiatric_Hospital/Models/Props/Surgery/Knife_01.fbx
+[2021.10.26-04.41.03:925][305]LogFbx: FBX Scene Loaded Succesfully
+[2021.10.26-04.41.05:441][305]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.10.26-04.41.05:487][305]LogStaticMesh: Building static mesh Knife_01...
+[2021.10.26-04.41.05:492][305]LogStaticMesh: Built static mesh [0.01s] /Game/Abandoned_Psychiatric_Hospital/Models/Props/Surgery/Knife_01.Knife_01
+[2021.10.26-04.41.05:570][305]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.10.26-04.41.05:749][306]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.10.26-04.41.05:752][306]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.10.26-04.41.05:752][306]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.10.26-04.41.05:752][306]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.10.26-04.41.05:778][306]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2021.10.26-04.41.05:778][306]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2021.10.26-04.41.05:778][306]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2021.10.26-04.41.05:778][306]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.10.26-04.41.05:778][306]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.10.26-04.41.05:778][306]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.10.26-04.41.05:778][306]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.10.26-04.41.05:778][306]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2021.10.26-04.41.05:778][306]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2021.10.26-04.41.05:814][306]LogSavePackage: Moving '../../../Second_Game/LittleGuys/LittleGuys/Saved/Knife_01C95226404AAE79FF302069B975FC1D35.tmp' to '../../../Second_Game/LittleGuys/LittleGuys/Content/Abandoned_Psychiatric_Hospital/Models/Props/Surgery/Knife_01.uasset'
+[2021.10.26-04.41.06:184][307]AssetCheck: New page: Asset Save: Knife_01
+[2021.10.26-04.41.06:184][307]LogContentValidation: Display: Validating StaticMesh /Game/Abandoned_Psychiatric_Hospital/Models/Props/Surgery/Knife_01.Knife_01
+[2021.10.26-04.41.08:159][479]LogSlate: Window 'Message Log' being destroyed
+[2021.10.26-04.41.08:166][479]LogSlate: Window 'Message Log' being destroyed
+[2021.10.26-04.41.09:144][591]AssetReimport: Importing new asset /Game/Abandoned_Psychiatric_Hospital/Models/Props/Surgery/Knife_01.
+[2021.10.26-04.43.50:717][538]LogSlate: Took 0.000400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
